@@ -1,0 +1,46 @@
+Questionnaire
+
+1.Do you park in the onstreet parking spaces in Ahmedabad ? 
+
+(circle ) Yes/ No
+
+2 .What are your reasons for parking on the roadside rather than the car-parks? ( tick one option ):
+
+ a) only paying a quick visit
+ b) don’t want to pay for an hour’s parking
+ c) I have limited mobility and it’s closer to shops
+ d) I struggle to pay parking charges
+
+3.How often do you park in the onstreet spaces ? (tick one option ):
+ a) once a day 		b) 2/3 times a week
+ c) at weekends only 	d) more than once a day
+
+4. When you park in an onstreet space, how long on average do you spend ? (tick one option )
+a) up to 10 minutes 	b) 10 – 20 minutes
+c) 20 to 30 minutes 	d) 30 minutes to an hour
+
+5.At what times of day are you most likely to park ? (tick all that apply )
+a) overnight			b) between 6am and 9 am
+c) between 9 am and 12 noon 	d) between 1pm and 4pm
+e) between 4pm and 6pm 		f) between 6pm and 12 midnight
+
+6. On average, how much would you spend on your quick visit if you parked on the street ? (tick one)
+a) up to RS.10.00 			b) between RS.15.00 and RS.20.00
+c) between RS.20.00 and RS.25.00 	d) I won't pay 
+
+7. Would you change your habits if you had to pay for onstreet parking ? Would you (select one)
+a) pay to use the car park 		b) pay the onstreet charge
+c) ignore the charge and park anyway 	d) shop elsewhere
+e) take advantage of free parking in the supermarket and come to town less often
+
+8. Tell us about yourself. Please circle which of these age groups you fall into:
+a) 18-24 
+b) 25-45 
+c) 46-64 
+d) 65+
+
+9. Would you like to be provided with systemized parking facility near public transport/commutes ?
+(circle) Yes / No
+
+10.Would you like a mobile application to be developed for the above facilities ?
+(circle) Yes / No
